@@ -224,6 +224,6 @@ This project is developed for educational and learning purposes. It may be modif
 
 ## Author
 
-**Varshika Saravanan**
+**Pranesh Ramachandran**
 
 Bachelor of Technology – Information Technology
